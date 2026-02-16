@@ -1,3 +1,2 @@
-### About Branches
-## 1. C
+### About
 Lab quizes and their answers from the classes took place in ITU as MAT115E: Intro. to Programming Language
