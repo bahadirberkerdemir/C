@@ -9,7 +9,8 @@ int main(){
 	area = h * l;
 	circ = 2 * (h + l);
 	
-	printf("\n\nCircumference of this rectangle: %f\nArea of this rectangle: %f",circ,area);
+	printf("\n\nCircumference of this rectangle: %.2f\nArea of this rectangle: %.2f",circ,area);
 
 	return 0;
 }
+
