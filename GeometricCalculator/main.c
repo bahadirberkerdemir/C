@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+#include <conio.h>
 #include "shapes.h" 
 
 int main(){
@@ -41,8 +42,9 @@ int main(){
 		return 0;
 	}	
 	
-	
+	getch(); 
 	return 0;
 }
 
  
+
