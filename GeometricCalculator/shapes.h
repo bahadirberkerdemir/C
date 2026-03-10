@@ -6,3 +6,4 @@ float circle(int);
 int rect(int, int);
 
 #endif
+  
