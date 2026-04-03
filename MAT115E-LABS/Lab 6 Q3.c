@@ -1,4 +1,3 @@
-/*son digiti ayýr sonra loop yaz*/
 #include<stdio.h>
 #include<math.h>
 
