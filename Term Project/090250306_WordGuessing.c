@@ -166,5 +166,5 @@ pos.X = 0;
 pos.Y = csbi.dwCursorPosition.Y - 1;
 
 FillConsoleOutputCharacter(hConsole, ' ', csbi.dwSize.X, pos, &written);
-SetConsoleCursorPosition(hConsole, pos); // Ayný yere geri dön
+SetConsoleCursorPosition(hConsole, pos);
  }
