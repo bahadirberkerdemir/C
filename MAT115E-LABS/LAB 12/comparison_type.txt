@@ -1,0 +1,6 @@
+case-insensitive
+case-insensitive
+case-sensitive
+case-sensitive
+case-insensitive
+

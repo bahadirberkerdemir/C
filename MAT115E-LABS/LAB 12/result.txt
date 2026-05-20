@@ -1,0 +1,5 @@
+Equal.
+Not Equal.
+Equal.
+Not Equal.
+Not Equal.
